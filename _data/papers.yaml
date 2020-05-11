@@ -1,0 +1,28 @@
+- date: April, 2020
+  title: Millions of Tiny Databases
+  url: https://www.amazon.science/publications/millions-of-tiny-databases
+
+- date: April, 2020
+  title: Replication Techniques for Availability
+
+- date: March, 2020
+  title: Distributed Systems for Fun and Profit
+  url: http://book.mixu.net/distsys/single-page.html
+  comment: A must-read if you want a broad introduction on distributed algorithms.
+
+- date: Feb, 2020
+  title: A Tutorial on Thompson Sampling
+  url: https://web.stanford.edu/~bvr/pubs/TS_Tutorial.pdf
+
+- date: Jan, 2020
+  title: The Art of Powerful Questions
+  url: https://umanitoba.ca/admin/human_resources/change/media/the-art-of-powerful-questions.pdf
+
+- date: Jan, 2020
+  title: An Introduction to Conditional Random Fields
+  url: https://arxiv.org/abs/1011.4088
+  comments:
+
+- date: Dec, 2019
+  title: Challenges with Distributed Systems
+  url: https://aws.amazon.com/builders-library/challenges-with-distributed-systems/
