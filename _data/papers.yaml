@@ -1,4 +1,8 @@
 - date: May, 2020
+  title: Estimating Causal Effects of Treatments in Randomized and Nonrandomized Studies
+  url: http://www.fsb.muohio.edu/lij14/420_paper_Rubin74.pdf
+
+- date: May, 2020
   title: "PigPaxos: Devouring the communication bottlenecks in distributed consensus"
   url: https://arxiv.org/pdf/2003.07760.pdf
   comment: >
