@@ -2,9 +2,9 @@
   title: "PigPaxos: Devouring the communication bottlenecks in distributed consensus"
   url: https://arxiv.org/pdf/2003.07760.pdf
   comment: >
-      "I really enjoy reading this paper for two reasons: 
-       1) the idea of adding relay notes in Paxos algorithm to improve its vertial scalability is simple and elegant; 
-       2) the writing is very clear and easy to follow."
+       I really enjoy reading this paper for two reasons: 
+       1) the idea of adding relay nodes in Paxos algorithm to improve its vertial scalability is simple and elegant; 
+       2) the writing is very clear and easy to follow.
 
 - date: May, 2020
   title: In Search of an Understandable Consensus Algorithm (Extended Version)
