@@ -1,4 +1,8 @@
 - date: May, 2020
+  title: Linearizable Quorum Reads in Paxos
+  url: https://www.usenix.org/system/files/hotstorage19-paper-charapko.pdf
+  
+- date: May, 2020
   title: Estimating Causal Effects of Treatments in Randomized and Nonrandomized Studies
   url: http://www.fsb.muohio.edu/lij14/420_paper_Rubin74.pdf
 
