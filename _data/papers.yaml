@@ -1,4 +1,8 @@
 - date: May, 2020
+  title: Caching challenges and strategies
+  url: https://aws.amazon.com/builders-library/caching-challenges-and-strategies/
+
+- date: May, 2020
   title: Linearizable Quorum Reads in Paxos
   url: https://www.usenix.org/system/files/hotstorage19-paper-charapko.pdf
   
