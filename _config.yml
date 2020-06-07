@@ -21,7 +21,7 @@
 title: Jeremy's Paper Reading Trails
 # email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  A collection of papers that I have read and found interesting.
+  Personal collection of interesting papers
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
