@@ -1,4 +1,8 @@
 - date: June, 2020
+  title: "Firecracker: Lightweight Virtualization for Serverless Applications"
+  url: https://www.usenix.org/system/files/nsdi20-paper-agache.pdf
+  
+- date: June, 2020
   title: Using load shedding to avoid overload
   url: https://aws.amazon.com/builders-library/using-load-shedding-to-avoid-overload/
 
