@@ -1,3 +1,11 @@
+- date: Feb, 2021
+  title: "Viewstamp Replication Revisited"
+  url: http://pmg.csail.mit.edu/papers/vr-revisited.pdf
+
+- date: Jan, 2021
+  title: "Keeping CALM: When Distributed COnsistency is Easy"
+  url: https://arxiv.org/pdf/1901.01930.pdf
+
 - date: June, 2020
   title: "Firecracker: Lightweight Virtualization for Serverless Applications"
   url: https://www.usenix.org/system/files/nsdi20-paper-agache.pdf
