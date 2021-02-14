@@ -1,4 +1,8 @@
 - date: Feb, 2021
+  title: Avoiding fallback in distributed systems
+  url: https://aws.amazon.com/builders-library/avoiding-fallback-in-distributed-systems/
+
+- date: Feb, 2021
   title: "Viewstamp Replication Revisited"
   url: http://pmg.csail.mit.edu/papers/vr-revisited.pdf
 
