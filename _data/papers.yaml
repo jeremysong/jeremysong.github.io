@@ -1,4 +1,8 @@
 - date: Feb, 2021
+  title: A Tutorial on Principal Component Analysis
+  url: https://arxiv.org/pdf/1404.1100.pdf
+
+- date: Feb, 2021
   title: Avoiding fallback in distributed systems
   url: https://aws.amazon.com/builders-library/avoiding-fallback-in-distributed-systems/
 
