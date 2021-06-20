@@ -1,4 +1,8 @@
 - date: Jun, 2021
+  title: "Metastable Failures in Distributed Systems"
+  url: https://sigops.org/s/conferences/hotos/2021/papers/hotos21-s11-bronson.pdf
+
+- date: Jun, 2021
   title: "Voting with Witnesses: A Consistency Scheme for Replicated Files"
   url: http://www2.cs.uh.edu/~paris/MYPAPERS/Icdcs86.pdf
 
